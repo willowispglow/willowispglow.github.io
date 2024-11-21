@@ -1,0 +1,9 @@
+User-agent:*
+Allow:/
+
+Sitemap: https://willowispglow.github.io/willowispglow_github_io_zp527_12.txt
+Sitemap: https://willowispglow.github.io/willowispglow_github_io_zp527_17.txt
+Sitemap: https://willowispglow.github.io/willowispglow_github_io_zp527_21.txt
+Sitemap: https://willowispglow.github.io/willowispglow_github_io_zp527_26.txt
+Sitemap: https://willowispglow.github.io/willowispglow_github_io_zp527_30.txt
+Sitemap: https://willowispglow.github.io/willowispglow_github_io_zp527_6.txt
